@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TMgdghKUipgUTjENDhGvYqLSEGZAbS3hlrlPHMytIyy4fuKgy8mGZuDphVv/3FkL5TwouY3fnJOtv2/Tpb4feA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vadim\\RiderProjects\\VKParse\\VKParse.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vadim\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

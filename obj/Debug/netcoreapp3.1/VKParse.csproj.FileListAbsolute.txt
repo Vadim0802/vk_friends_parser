@@ -1,0 +1,15 @@
+C:\Users\vadim\RiderProjects\VKParse\bin\Debug\netcoreapp3.1\VKParse.exe
+C:\Users\vadim\RiderProjects\VKParse\bin\Debug\netcoreapp3.1\VKParse.deps.json
+C:\Users\vadim\RiderProjects\VKParse\bin\Debug\netcoreapp3.1\VKParse.runtimeconfig.json
+C:\Users\vadim\RiderProjects\VKParse\bin\Debug\netcoreapp3.1\VKParse.runtimeconfig.dev.json
+C:\Users\vadim\RiderProjects\VKParse\bin\Debug\netcoreapp3.1\VKParse.dll
+C:\Users\vadim\RiderProjects\VKParse\bin\Debug\netcoreapp3.1\VKParse.pdb
+C:\Users\vadim\RiderProjects\VKParse\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\vadim\RiderProjects\VKParse\obj\Debug\netcoreapp3.1\VKParse.csprojAssemblyReference.cache
+C:\Users\vadim\RiderProjects\VKParse\obj\Debug\netcoreapp3.1\VKParse.AssemblyInfoInputs.cache
+C:\Users\vadim\RiderProjects\VKParse\obj\Debug\netcoreapp3.1\VKParse.AssemblyInfo.cs
+C:\Users\vadim\RiderProjects\VKParse\obj\Debug\netcoreapp3.1\VKParse.csproj.CoreCompileInputs.cache
+C:\Users\vadim\RiderProjects\VKParse\obj\Debug\netcoreapp3.1\VKParse.csproj.CopyComplete
+C:\Users\vadim\RiderProjects\VKParse\obj\Debug\netcoreapp3.1\VKParse.dll
+C:\Users\vadim\RiderProjects\VKParse\obj\Debug\netcoreapp3.1\VKParse.pdb
+C:\Users\vadim\RiderProjects\VKParse\obj\Debug\netcoreapp3.1\VKParse.genruntimeconfig.cache
