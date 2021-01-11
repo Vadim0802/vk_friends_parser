@@ -24,7 +24,6 @@ namespace VKParse
             _lastName = lastName;
             _middleName = middleName;
             _city = city;
-            //FriendsIds.AddRange(ids);
         }
 
         public override string ToString()
